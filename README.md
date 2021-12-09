@@ -1,6 +1,6 @@
 # Face-Detection
 
-Face Detection is widely used in various applications for detecting human faces in a captured image. This repository deals with several face detecting models. 
+Face Detection is widely used in various applications for detecting human faces in a captured image. This repository deals with 3 widely used face detecting models. 
 
 
 ## Topics Covered
