@@ -5,7 +5,7 @@ Face Detection is widely used in various applications for detecting human faces 
 
 ## Topics Covered
 
-- HAAR Cascade Classifer using OpenCV
+- HAAR Cascade Classifier using OpenCV
 - Histogram of Oriented Gradients (HOG) with Dlib and Linear SVM
 - Dlib with CNN
 - Face Detection from WebCam
@@ -32,7 +32,7 @@ https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduc
 
 ##### Dlib with CNN
 
-Dlib with CNN applied pre-trained Convolutional Neural Networks (CNN) for face detection trained on millions of image datasets. Detailed explanation of CNN can be found from below Stanford lecture notes:
+Dlib with CNN applied pre-trained Convolutional Neural Networks (CNN) for face detection trained on millions of image datasets. Detailed explanation of CNN can be found in below Stanford lecture notes:
 
 https://cs231n.github.io/convolutional-networks/
 
