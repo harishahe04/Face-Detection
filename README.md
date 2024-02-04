@@ -22,7 +22,7 @@ Installation of Dlib can be unsuccessful with errors. If error occurs, then one 
 
 ## Tutorials
 
-The basic intuition behind the classifiers can be understood from the bellow links:
+The basic intuition behind the classifiers can be understood from the below links:
 ##### HAAR Cascade
 
 https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
